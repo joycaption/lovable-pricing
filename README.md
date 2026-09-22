@@ -66,4 +66,5 @@ The pricing page does not expose per-plan dollar amounts in a form that can be q
 
 Lovable is a good match when you need a running web app with a backend, hosting and AI features, paid for from one credit balance. If your job is narrower, a landing page, a documentation site, a portfolio or an Expo app prototype, and you want to own the files rather than keep a balance topped up, [Try Begin.sh - turn a prompt or a URL into a downloadable static site or Expo app](https://begin.sh?utm_source=github&utm_medium=ugc&utm_campaign=lovable-pricing&utm_content=readme-top&utm_term=tier-r). Describe the site or paste a URL to clone, download the zip, and host it wherever you already host things. No hosting, backend or auth is bundled, so nothing keeps consuming credits after the build is done.
 
+
 _Last reviewed: 2026-09-22_
